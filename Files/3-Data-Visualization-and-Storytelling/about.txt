@@ -1,0 +1,44 @@
+Task Three
+
+# Let’s bring the data to life
+
+So, you’ve got a clean data set and you’ve done some analysis - what next?
+
+What you'll learn in this task:
+
+As we said earlier, your job as a data analyst is to connect the business and the data. You’ll need to communicate the relevant insights in a way that is clear, concise and engaging for your client and team members.
+
+This will involve bringing the data to life using visualizations. You’ll learn to choose the right data visualizations that best support the story you want to tell.
+
+What you'll do in this task:
+
+You’ll create a powerpoint presentation for Social Buzz that reports on their content performance.
+
+It’s time for your data visualization and story telling skills to shine!
+
+# Build your presentation Structure
+
+Importantly, before you start creating your data charts, you should plan your presentation structure. This will ensure your presentation answers the right questions.
+
+Here is a template that we would use at Accenture to create a presentation. You need to download this template and populate slides 2-6.
+
+	Accenture Presentation Template
+	https://cdn.theforage.com/vinternships/companyassets/T6kdcdKSTfg2aotxT/MsAqi7SNLKw3C6LAr/1664567797956/Data%20Analytics%20template%20-%20Task%203_final.pptx
+
+For each slide, think about: 
+
+	Agenda - What will your presentation cover?
+	Project Recap - What are the key points from the brief?
+	Problem - What is the problem that you answer in this presentation?
+	The Analytics team - Who is on your team?
+		As a reminder from the earlier task - this includes: Andrew Fleming (Chief Technical Architect), Marcus Rompton (Senior Principle), and yourself!
+	Process - How did you complete your analysis?
+
+Once you’ve populated slides 2-6 - complete the quick knowledge check to move onto the next step.
+
+In the next step, we’ll review what you’ve included before we start charting.
+
+If you can't open the powerpoint template, here is a PDF version for you to use: 
+
+	Accenture Presentation Template
+	https://cdn.theforage.com/vinternships/companyassets/T6kdcdKSTfg2aotxT/MsAqi7SNLKw3C6LAr/1664563914373/Data%20Analytics%20template%20-%20Task%203_final.pdf

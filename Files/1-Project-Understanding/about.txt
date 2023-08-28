@@ -1,0 +1,82 @@
+Task One
+
+# First up, why has Accenture built this program?
+
+The recruitment team at Accenture has created this program to educate and identify great candidates.
+
+If you aren’t yet ready to apply to us, that’s okay! This program will help you to explore what the job involves and build your resume. 
+
+So, how do you benefit? 
+
+	1. You get relevant work experience taught by our team 
+	2. Add the program as a Certification to your Resume and LinkedIn
+	3. Stand out in applications and interviews - talk about the job skills you've learned and why you're a good fit for the team.
+
+And what does the Accenture Team see? 
+
+We have access to a dashboard to see who joins and completes our programs, and to contact you about upcoming opportunities - (only if you share your data with us of course!). 
+
+By completing the program, you're showing us that you're a motivated student who's interested in Accenture, this is very important to us. Don't worry, this is not an assessment tool, this is a safe learning environment for you to build your skills. 
+
+So, let's get started with the program!
+
+# Before we begin…
+Here are some key facts about this program:
+
+	You are working as a Data Analyst at Accenture.
+	You work within a larger team, where each member has a different role and level of responsibility.
+	Your team has been assigned a new project for a client called Social Buzz.
+	You’re hoping for a promotion at work, and this is an exciting opportunity for you to showcase your data analysis and visualization skills.
+
+# Key roles and responsibilities of a Data Analyst
+
+A data analyst sits between the business and the data.
+
+What do we mean by that?
+
+	The Business refers to the client and your internal team members who won’t be involved in detailed data analysis.
+		They rely on your analysis to make strategic business decisions.
+		Importantly, not everyone will have a strong understanding of data. Your job is to communicate your data findings simply and clearly for everyone to understand.
+ 
+	The Data refers to the relevant data sources that you will clean, process, and use to generate interesting insights for the business.
+
+As a Data Analyst at Accenture, you’ll get to work across a range of different clients and projects. This keeps things interesting, as there are always new problems to solve and new topics to learn about.
+
+However, our clients often want accurate results in a tight timeframe. The pace of work is fast and you’ll need to get up to speed on new projects as quickly as possible.
+
+Now you know a bit more about the role, let’s get back to the project with Social Buzz.
+
+# Read the brief from Social Buzz
+
+Your first task is to read the brief from Social Buzz and complete a short knowledge check before the call. 
+
+One of Accenture’s Managing Directors, Mae Mulligan, is the client lead for Social Buzz.
+
+She has reviewed the brief provided by Social Buzz and has assembled a diverse team of Accenture experts to deliver the project.
+
+Mae has scheduled a project kick off call with the internal Accenture project team for tomorrow morning.
+
+Ahead of the call, Mae has shared the project brief so you can get up to speed on what Social Buzz need help with.
+
+Read the brief to:
+
+	Understand the client and business problem at hand.
+	Identify the requirements that need to be delivered for this project.
+	Identify which tasks you should focus on as a Data Analyst.
+
+Complete the knowledge check to move onto the next step. You can attempt each question in the knowledge check as many times as you like!
+
+# Task Resources
+	Brief from Social Buzz
+	https://cdn.theforage.com/vinternships/companyassets/T6kdcdKSTfg2aotxT/MsAqi7SNLKw3C6LAr/1664296994014/Data_Analytics%20Client%20Brief.pdf
+
+Here are some resources to help you
+Here are some key terms if you're curious:
+
+Note: You don’t need to know anything more about Big Data or IPOs for this program.
+
+Big Data refers to large, diverse sets of information that grow at ever-increasing rates. It includes the volume of information, the velocity or speed at which it is created and collected, and the variety or scope of the data points being covered (known as the "three v's" of big data).
+Source: Investopedia. https://www.investopedia.com/financial-edge/0312/ipos-for-beginners.aspx
+
+An IPO stands for Initial Public Offering - this happens when a private company becomes public by selling its shares on a stock exchange.
+Source: Investopedia. https://www.investopedia.com/terms/b/big-data.asp
