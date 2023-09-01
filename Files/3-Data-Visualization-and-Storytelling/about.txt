@@ -50,3 +50,42 @@ If you can't open the powerpoint template, here is a PDF version for you to use:
 
 	Accenture Presentation Template
 	https://cdn.theforage.com/vinternships/companyassets/T6kdcdKSTfg2aotxT/MsAqi7SNLKw3C6LAr/1664563914373/Data%20Analytics%20template%20-%20Task%203_final.pdf
+
+# Quiz
+Question 1 of 1
+Have you completed slides 2-6 in your presentation?
+      x Yes!
+	Not yet
+
+Great Work!
+Great! Let's move on.
+
+# Quick explanation
+Great work! To ensure you're on the right track, have a look at these annotated images to see how a professional at Accenture would have completed slides 2-6. 
+
+Notice how the information is clear and concise, and summarizes the most important points. You can click on each image to expand it.
+
+When you're done, move onto the next step and we'll add in some charts!
+
+# Create your charts
+The final step of this task is to populate slides 7 - 10 with your data insights.
+
+If you’ve lost your spreadsheet, we’ve attached one here again for you to use.
+
+	Cleaned data set for analysis
+	https://cdn.theforage.com/vinternships/companyassets/T6kdcdKSTfg2aotxT/MsAqi7SNLKw3C6LAr/1664564187354/Task%203_Final%20Content%20Data%20set.csv
+
+We know that the client wants to understand the top 5 content categories. Have a think about what are the best ways to present this? In a pie chart? In a bar chart?
+
+There are also some other interesting insights that we might want to share with them. For example:
+
+	How many unique categories are there?
+	How many reactions are there to the most popular category?
+	What was the month with the most posts?
+
+If you get stuck, here is a resource on how to make charts in excel.
+
+Once your slides are complete with your data insights and charts, upload your work to see the example answer in the next step. 
+
+Upload your completed presentation
+Select a File or drag it here.
